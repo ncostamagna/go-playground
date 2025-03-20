@@ -1,0 +1,1 @@
+select * from shit where owner in ('cat', 'dog', 'gopher')
